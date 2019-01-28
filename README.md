@@ -1,4 +1,3 @@
 # CLONE---PATATAP
 BASIC JS
-DOWNLOAD howler.js
-DOWNLOAD paper.js
+DOWNLOAD howler.js &&  paper.js
